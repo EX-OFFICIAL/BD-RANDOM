@@ -29,7 +29,7 @@
 
 - `rm -rf BD-RANDOM`
 
-- `git clone https://github.com/Mr3x1/BD-RANDOM`
+- `git clone https://github.com/EX-OFFICIAL/BD-RANDOM`
 
 - `cd BD-RANDOM`
 
